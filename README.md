@@ -1,4 +1,3 @@
-# UIDAI-biometric-analysis
 # UIDAI Biometric Analysis
 88.7% accuracy Random Forest (AUC 0.956)
 
