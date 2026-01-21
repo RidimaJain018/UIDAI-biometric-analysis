@@ -1,2 +1,9 @@
 # UIDAI-biometric-analysis
-ML modeling of UIDAI Aadhaar biometric data, 1.86M records, 19K pincodes; End-to-end pipeline, from merging four CSVs and EDA visualizations to feature engineering and Random Forest modeling predicting high-coverage areas with best accuracy and AUC. Fixed the problem of data leakage. UIDAI Hackathon 2026 Submission.
+# UIDAI Biometric Analysis
+88.7% accuracy Random Forest (AUC 0.956)
+
+Processed 1.86M records. Built EDA, feature engineering, ML pipeline.
+
+Run:
+pip install pandas scikit-learn matplotlib
+jupyter notebook uidai-hackathon.ipynb
